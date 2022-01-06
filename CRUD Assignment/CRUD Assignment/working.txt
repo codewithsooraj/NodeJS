@@ -1,0 +1,12 @@
+Create an API to perform insert, select, select by id , update an delete operations for a product.
+Fields: 
+product name
+SKU
+quantity
+Model number
+serial number
+Gst
+HSN
+
+
+** Model Number, serial number and HSN of product must be unique

@@ -1,0 +1,5 @@
+Create an API to insert the information of a product. The following fields should be there in 
+Product Name, category name, product price, description of the product, product status, created at, color variant name. 
+
+
+create a video of working API along with the output of database record/document and upload an answer sheet.
